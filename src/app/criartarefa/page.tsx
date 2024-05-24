@@ -78,6 +78,7 @@ export default function Home() {
                 setNewPlace({ ...newPlace, descricao: e.target.value })
               }
             />
+            
           </div>
           <div className="mb-8">
             <label
